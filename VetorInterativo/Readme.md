@@ -1,23 +1,23 @@
-#Vetor interativo
+    #Vetor interativo
 
     Faça um código que receba um char de ação e insira e remova elementos de uma lista.
 
-##Opções
-    -a: insere vários elementos no vetor
-        a qtd _valor _valor ...
-    -i: insere em uma posição do vetor
-        i _pos _valor
-    -r: remove de uma posição do vetor
-        r _pos
-    -s: mostrar vetor no formato [ v1 v2 v3 ]
-    -q: encerra a execução
-##Entrada
-    -se opção for a ou A receba um valor a ser inserido.
-        Ex: a 5, insere o 5 no final
-    -se opção for i ou s
-        Ex: i 1 7, insere o 7 na posição 1
-##Saída
-    mostrar o vetor para cada opção s aparecer.
+    ##Opções
+        -a: insere vários elementos no vetor
+            a qtd _valor _valor ...
+        -i: insere em uma posição do vetor
+            i _pos _valor
+        -r: remove de uma posição do vetor
+            r _pos
+        -s: mostrar vetor no formato [ v1 v2 v3 ]
+        -q: encerra a execução
+    ##Entrada
+        -se opção for a ou A receba um valor a ser inserido.
+            Ex: a 5, insere o 5 no final
+        -se opção for i ou s
+            Ex: i 1 7, insere o 7 na posição 1
+    ##Saída
+        mostrar o vetor para cada opção s aparecer.
     >>>>>>>>
     s
     q
